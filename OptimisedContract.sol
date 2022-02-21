@@ -1,21 +1,5 @@
 // SPDX-License-Identifier: MIT
 //
-// Author: theblockchain.eth
-//
-// Disclaimer: THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE 
-//             WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE 
-//             LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
-//             OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-//
-// TLDR:       Test it and DYOR, its free MIT licensed code y'know....
-//
-//  -_----_------------_------_---------------_-----------_-------------_------------------_----_-----
-//  |-|_-|-|__----___-|-|__--|-|--___----___-|-|-__--___-|-|__----__-_-(_)-_-__-------___-|-|_-|-|__--
-//  |-__||-'_-\--/-_-\|-'_-\-|-|-/-_-\--/-__||-|/-/-/-__||-'_-\--/-_`-||-||-'_-\-----/-_-\|-__||-'_-\-
-//  |-|_-|-|-|-||--__/|-|_)-||-||-(_)-||-(__-|---<-|-(__-|-|-|-||-(_|-||-||-|-|-|-_-|--__/|-|_-|-|-|-|
-//  -\__||_|-|_|-\___||_.__/-|_|-\___/--\___||_|\_\-\___||_|-|_|-\__,_||_||_|-|_|(_)-\___|-\__||_|-|_|
-//  --------------------------------------------------------------------------------------------------
-//
 // Features:
 //  - Highly optimised and super cheap gas for both deployment AND minting!
 //  - Set supply, price, and maximum mints per txn set and locked at contract deployment
