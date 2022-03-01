@@ -48,7 +48,7 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract optimisedContract is ERC721, Ownable {
+contract GenericNFT is ERC721, Ownable {
 
     using Counters for Counters.Counter;
     
